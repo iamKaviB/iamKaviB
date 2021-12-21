@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @iamKaviB
-- 👀 I’m interested in full stack developing in Java , Python,  C#  , mern ,mean
+- 👀 I’m interested in full stack developing and Backend developing
 - 🌱 I’m currently learning mern stack
 - 💞️ I’m looking to collaborate on software engineer position
 - 📫 How to reach me email : iamkavib@gmail.com 
