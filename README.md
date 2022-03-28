@@ -1,4 +1,7 @@
-- 👋 Hi, I’m @iamKaviB
+<h1 align="center">Hi 👋, I'm KaviB.</h1>
+<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="20%">
+<h3 align="center">I am Kavindu Balasooriya,Software Engineering Undergraduate Student at SLIIT.</h3>
+
 - 👀 I’m interested in full stack developing and Backend developing
 - 🌱 I’m currently learning mern stack
 - 💞️ I’m looking to collaborate on software engineer position
