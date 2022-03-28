@@ -1,14 +1,16 @@
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 <h1 align="center">Hi 👋, I'm KaviB.</h1>
 <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="20%">
-<h3 align="center">I am Kavindu Balasooriya,Software Engineering Undergraduate Student at SLIIT.</h3>
+<h3 align="center">I'm a passionate Full Stack Developer from Sri Lanka.</h3>
 
+## :raising_hand: About Me
 - 👀 I’m interested in full stack developing and Backend developing
 - 🌱 I’m currently learning mern stack
 - 💞️ I’m looking to collaborate on software engineer position
 - 📫 How to reach me email : iamkavib@gmail.com 
 
 
-### Languages and Frameworks:
+### 🚀 Languages and Frameworks:
 <p align="left"> 
 
   <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a><a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a><a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
