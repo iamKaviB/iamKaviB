@@ -46,10 +46,4 @@
 <br/>
 <br/>
 
-
-[![Kavindu's github activity graph](https://activity-graph.herokuapp.com/graph?username=iamKaviB&theme=react-dark&custom_title=KaviB's%20Github%20Stats)](https://github.com/iamKaviB/github-readme-activity-graph)
-<!---
-iamKaviB/iamKaviB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 [![An image of @iamkavib's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/iamkavib)](https://holopin.io/@iamkavib)
